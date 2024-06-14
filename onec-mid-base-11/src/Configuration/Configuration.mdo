@@ -1215,6 +1215,7 @@
   <catalogs>Catalog.Файлы</catalogs>
   <catalogs>Catalog.КонтактныеЛица</catalogs>
   <catalogs>Catalog.Должность</catalogs>
+  <catalogs>Catalog.ДоставкаПрисоединенныеФайлы</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
